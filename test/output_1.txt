@@ -1,0 +1,10 @@
+Solusi ditemukan!
+
+Final board:
+A B B C C 
+A A B D C 
+E E D D G 
+E E F F G 
+E F F F G 
+Waktu pencarian: 97 ms
+Banyak kasus yang ditinjau: 60933

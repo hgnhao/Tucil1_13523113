@@ -1,0 +1,8 @@
+Solusi ditemukan!
+
+Final board:
+B A A 
+A B A 
+B A A 
+Waktu pencarian: 1 ms
+Banyak kasus yang ditinjau: 2
